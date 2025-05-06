@@ -4,3 +4,4 @@ matplotlib
 pandas
 matplotlib_inline
 ipykernel
+seaborn
