@@ -5,4 +5,5 @@ matplotlib_inline
 ipykernel
 seaborn
 torchinfo
+torchsummary
 scikit-learn
