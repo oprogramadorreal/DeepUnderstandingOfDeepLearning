@@ -7,3 +7,4 @@ seaborn
 torchinfo
 torchsummary
 scikit-learn
+scikit-image
