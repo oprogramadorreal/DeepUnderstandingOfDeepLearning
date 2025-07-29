@@ -8,3 +8,4 @@ torchinfo
 torchsummary
 scikit-learn
 scikit-image
+imageio
